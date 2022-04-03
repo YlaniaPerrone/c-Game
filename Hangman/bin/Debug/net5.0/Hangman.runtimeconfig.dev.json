@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lania\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lania\\.nuget\\packages"
+    ]
+  }
+}

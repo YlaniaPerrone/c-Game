@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmzyoGy2MMqBTz5099pUqFqa4kwGt6Cxk+LpDNJyKDneiMbmuCl6J3rO3cQh4BNy9CySOfiY/DFaRW7NZ5x9GQ==",
+  "success": true,
+  "projectFilePath": "D:\\webD\\Learn Dev\\c#\\Game\\HeadsOrTails\\HeadsOrTails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

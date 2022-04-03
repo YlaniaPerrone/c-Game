@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R24fkbn1jGdDmK5zcvDbMfdJZ46qfsK0pU3alfddfuEFpOl7OjtWq8d4IUmQOWlepRP+yc7zkZAhsK9NFzmOAQ==",
+  "success": true,
+  "projectFilePath": "D:\\webD\\Learn Dev\\c#\\Game\\MovePion\\MovePion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

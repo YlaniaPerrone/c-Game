@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2S4myt/e2xEoR12LSKzl620QOdDPC5T2bZMt2PzL47eRiTLMnfimFHw3gfaPhe/T1tpoSx8K4MnmIH6rrjw7vg==",
+  "success": true,
+  "projectFilePath": "D:\\webD\\Learn Dev\\c#\\Game\\Hangman\\Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

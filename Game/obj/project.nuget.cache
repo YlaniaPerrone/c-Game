@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1TY+7r6wzxTdWw8NMhkHEvxd7vh9ks45IdJ+e6liMu4HL2LvB3ILxazMDIV2rUH+eAh+HLO+UtxlDQ/0WFoew==",
+  "success": true,
+  "projectFilePath": "D:\\webD\\Learn Dev\\c#\\Game\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

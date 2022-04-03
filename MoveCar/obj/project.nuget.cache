@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3fvrUYIJVSPkaqzEIXuwAyUgZWS489Kkd2PFlnVoOxCaRfTFX67KVzS+HT0oBn+UUg+XoZwvhdpC548mSMVyg==",
+  "success": true,
+  "projectFilePath": "D:\\webD\\Learn Dev\\c#\\Game\\MoveCar\\MoveCar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

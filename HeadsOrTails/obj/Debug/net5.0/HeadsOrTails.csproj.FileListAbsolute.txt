@@ -1,0 +1,16 @@
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.exe
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.deps.json
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.runtimeconfig.json
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.runtimeconfig.dev.json
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.dll
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\ref\HeadsOrTails.dll
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\bin\Debug\net5.0\HeadsOrTails.pdb
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.csproj.AssemblyReference.cache
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.AssemblyInfoInputs.cache
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.AssemblyInfo.cs
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.dll
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\ref\HeadsOrTails.dll
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.pdb
+D:\webD\Learn Dev\c#\Game\HeadsOrTails\obj\Debug\net5.0\HeadsOrTails.genruntimeconfig.cache

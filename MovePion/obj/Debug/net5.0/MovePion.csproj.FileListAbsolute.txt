@@ -1,0 +1,16 @@
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.exe
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.deps.json
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.runtimeconfig.json
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.runtimeconfig.dev.json
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.dll
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\ref\MovePion.dll
+D:\webD\Learn Dev\c#\Game\MovePion\bin\Debug\net5.0\MovePion.pdb
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.csproj.AssemblyReference.cache
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.GeneratedMSBuildEditorConfig.editorconfig
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.AssemblyInfoInputs.cache
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.AssemblyInfo.cs
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.csproj.CoreCompileInputs.cache
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.dll
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\ref\MovePion.dll
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.pdb
+D:\webD\Learn Dev\c#\Game\MovePion\obj\Debug\net5.0\MovePion.genruntimeconfig.cache
